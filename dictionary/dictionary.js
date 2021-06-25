@@ -117,6 +117,7 @@ function renderNoResults(){
 }
 
 function getResultsFromApi(){
+    mainIndex = 0;
     searchResults.textContent = "";
     spinner.classList.toggle("d-none");
     fetch(url + searchInput.value, 
