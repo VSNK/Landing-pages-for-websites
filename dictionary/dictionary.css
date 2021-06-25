@@ -62,7 +62,13 @@
     color: #444444;
     font-size: 20px;
     overflow-y: auto;
-    max-height: 300px;
+    max-height: 250px;
+}
+
+@media screen and (min-height: 768px){
+    .link-description{
+        max-height: 350px;
+    }
 }
 
 .volume-btn {
