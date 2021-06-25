@@ -74,7 +74,7 @@ function updateResult(result) {
     searchResults.appendChild(meaningElement);
 
     let buttonsContainer = document.createElement('div');
-    buttonsContainer.classList.add('d-flex', 'justify-content-end', 'align-self-end');
+    buttonsContainer.classList.add('d-flex', 'justify-content-end', 'align-self-end', 'mb-3');
     searchResults.appendChild(buttonsContainer);
 
 
