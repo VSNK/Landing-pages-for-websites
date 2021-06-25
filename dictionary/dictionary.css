@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+    font-family: "Roboto";
+}
+
+.dictionary-search-header {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    min-height: 40vh;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+    background-image: url('./images/word_cloud.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input-container {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 3px;
+}
+
+.search-input {
+    font-size: 18px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    border-radius: 3px 0px 0px 3px;
+    padding: 10px;
+    outline: none;
+    flex-grow: 1;
+}
+.define-button {
+    border-radius: 0px 3px 3px 0px;
+}
+.search-results {
+    width: 100%;
+    max-width: 600px;
+    min-height: 50vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.result-title {
+    font-size: 48px;
+    cursor: pointer;
+}
+
+.link-description {
+    color: #444444;
+    font-size: 24px;
+    overflow-y: auto;
+}
+
+.volume-icon {
+    font-size: 32px;
+    outline: none;
+    cursor: pointer;
+    padding: 0px;
+    margin: 0px;
+}
+
+.word-sound {
+    outline: none;
+}
