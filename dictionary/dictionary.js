@@ -36,8 +36,8 @@ function createResult(result) {
 
     if(soundUrl!==null){
 
-        let audioBtn = document.createElement('span');
-        //audioBtn.classList.add('d-flex', 'justify-content-center', 'align-items-center', 'bg-secondary');
+        let audioBtn = document.createElement('button');
+        audioBtn.classList.add('volume-btn');
         audioBtn.innerHTML = '<i class="fas fa-volume-up volume-icon"></i>';
         nameContainer.appendChild(audioBtn);
 

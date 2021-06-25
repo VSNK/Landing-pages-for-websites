@@ -2,13 +2,15 @@
 
 .main-container {
     font-family: "Roboto";
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .dictionary-search-header {
     border-style: solid;
     border-width: 1px;
     border-color: #d5cdcd;
-    min-height: 40vh;
+    min-height: 35vh;
     padding-right: 20px;
     padding-left: 20px;
     margin-bottom: 40px;
@@ -42,21 +44,27 @@
 .search-results {
     width: 100%;
     max-width: 600px;
-    min-height: 50vh;
+    min-height: 45vh;
     padding: 20px;
     display: flex;
     flex-direction: column;
 }
 
 .result-title {
-    font-size: 48px;
+    font-size: 42px;
     cursor: pointer;
+    word-break: break-word;
 }
 
 .link-description {
     color: #444444;
-    font-size: 24px;
+    font-size: 20px;
     overflow-y: auto;
+}
+
+.volume-btn {
+    background-color: white;
+    border-width: 0px;
 }
 
 .volume-icon {
