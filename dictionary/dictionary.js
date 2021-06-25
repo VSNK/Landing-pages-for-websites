@@ -117,6 +117,7 @@ function renderNoResults(){
 }
 
 function getResultsFromApi(){
+    searchResults.textContent = "";
     spinner.classList.toggle("d-none");
     fetch(url + searchInput.value, 
     {
@@ -131,7 +132,6 @@ function getResultsFromApi(){
     })
     .then(function(jsonData) {
         spinner.classList.toggle("d-none");
-        searchResults.textContent = "";
         searchResults.classList.remove('d-none');
         results = jsonData.list;
         //console.log(results);

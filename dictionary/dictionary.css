@@ -4,7 +4,7 @@
     font-family: "Roboto";
     overflow-x: hidden;
     overflow-y: hidden;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .dictionary-search-header {
@@ -62,7 +62,7 @@
     color: #444444;
     font-size: 20px;
     overflow-y: auto;
-    max-height: 350px;
+    max-height: 300px;
 }
 
 .volume-btn {
