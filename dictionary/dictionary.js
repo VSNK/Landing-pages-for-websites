@@ -134,7 +134,7 @@ function getResultsFromApi(){
         spinner.classList.toggle("d-none");
         searchResults.classList.remove('d-none');
         results = jsonData.list;
-        console.log(results);
+        //console.log(results);
         if(results!==undefined && results.length>0)
             updateResult(results[mainIndex]);
         else
