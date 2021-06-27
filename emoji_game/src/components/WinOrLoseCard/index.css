@@ -1,0 +1,42 @@
+/* Write your code here. */
+.score-card {
+  width: 90%;
+  max-width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: white;
+  padding: 25px;
+  border-radius: 24px;
+  background: #ffffff33;
+}
+.win-lose-image {
+  order: 1;
+  width: 200px;
+}
+.score-info {
+  order: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media screen and (min-width: 768px) {
+  .score-card {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .win-lose-image {
+    order: 2;
+    width: 300px;
+  }
+  .score-info {
+    order: 1;
+  }
+}
+.play-again-button {
+  padding: 15px;
+  width: 120px;
+  border-width: 0px;
+  border-radius: 20px;
+  background-color: #ffce27;
+}
