@@ -1,4 +1,3 @@
-<div style="margin: auto;max-width: 900px;">
 # Simple JavaScript apps and beautiful landing pages for websites using HTML, CSS, Bootstrap.
   
   
@@ -66,4 +65,3 @@ https://vsnk.github.io/portfolio/
 #### Details
 > Simple and appealing portfolio with dummy user data.
 ---
-</div>
