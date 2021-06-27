@@ -4,10 +4,10 @@
 
 # React Js Apps
 
-## [Emojis Game](https://vsnk.github.io/reactjs/emojis_game/)
+## [Emojis Game](https://vsnk.github.io/reactjs/emoji_game/)
 
 #### Link
-https://vsnk.github.io/reactjs/emojis_game/
+https://vsnk.github.io/reactjs/emoji_game/
 #### Details
 > Simple emojis game. In this game the player has to 
 pick emojis without repetition.
