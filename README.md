@@ -1,3 +1,4 @@
+<div style="margin: auto;max-width: 900px;">
 # Simple JavaScript apps and beautiful landing pages for websites using HTML, CSS, Bootstrap.
   
   
@@ -12,7 +13,7 @@ https://vsnk.github.io/dictionary/
 The meanings are procured via REST API provided by RapidApi. 
 * Disclaimer: I am not responsible for any irrelevant or abusive meanings
 but the API owner Urban Dictionary website is.
-***
+---
 
 
 ## [Todos App](https://vsnk.github.io/todos_app/)
@@ -22,7 +23,7 @@ https://vsnk.github.io/todos_app/
 #### Details
 > Simple todos app in which one can add todo tasks to the list and save it. 
 The todos are preserved even when you reload the page.
-***
+---
 
 ## [Wikipedia Search App](https://vsnk.github.io/wikipedia_search/)
 
@@ -30,7 +31,7 @@ The todos are preserved even when you reload the page.
 https://vsnk.github.io/wikipedia_search/
 #### Details
 > Simple app that shows wikipedia search results like google search.
-***
+---
 
 ## [Chatbot App](https://vsnk.github.io/chatbot/)
 
@@ -38,7 +39,7 @@ https://vsnk.github.io/wikipedia_search/
 https://vsnk.github.io/chatbot/
 #### Details
 > Simple interactive chatbot.
-***
+---
 
 # Landing Pages
   
@@ -48,7 +49,7 @@ https://vsnk.github.io/chatbot/
 https://vsnk.github.io/food_munch/
 #### Details
 > Simple restaurant landing page.
-***
+---
 
 ## [Virtual Reality Store](https://vsnk.github.io/virtual_reality/)
 
@@ -56,7 +57,7 @@ https://vsnk.github.io/food_munch/
 https://vsnk.github.io/virtual_reality/
 #### Details
 > Simple virtual reality store landing page.
-***
+---
 
 ## [Portfolio](https://vsnk.github.io/portfolio/)
 
@@ -64,4 +65,5 @@ https://vsnk.github.io/virtual_reality/
 https://vsnk.github.io/portfolio/
 #### Details
 > Simple and appealing portfolio with dummy user data.
-***
+---
+</div>
