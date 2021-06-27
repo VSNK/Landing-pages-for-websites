@@ -2,7 +2,19 @@
   
   
 # JavaScript Apps
-  
+
+## [Urban Dictionary](https://vsnk.github.io/dictionary/)
+
+#### Link
+https://vsnk.github.io/dictionary/
+#### Details
+> Simple dictionary app which gives meaning of the word entered.
+The meanings are procured via REST API provided by RapidApi. 
+* Disclaimer: I am not responsible for any irrelevant or abusive meanings
+but the API owner Urban Dictionary website is.
+***
+
+
 ## [Todos App](https://vsnk.github.io/todos_app/)
 
 #### Link
