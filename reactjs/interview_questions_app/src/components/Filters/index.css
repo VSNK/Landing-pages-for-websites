@@ -1,0 +1,23 @@
+/* Write you CSS here */
+.filters-container {
+  width: 80%;
+  display: flex;
+  margin-bottom: 30px;
+}
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+.filter-label {
+  font-size: 12px;
+  margin-bottom: 5px;
+  color: #111;
+  font-family: "Roboto";
+}
+.filter-select {
+  width: 120px;
+  padding: 2px;
+  border-radius: 5px;
+  background-color: white;
+}

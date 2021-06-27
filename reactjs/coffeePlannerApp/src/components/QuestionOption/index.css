@@ -1,0 +1,42 @@
+/* Write your code here. */
+.option-list-item {
+  width: 100%;
+}
+.option-container {
+  width: 100%;
+  border-width: 0px;
+  outline: none;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  background-color: #f4f1ea;
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 768px) {
+  .option-list-item {
+    width: 32%;
+  }
+  .option-container {
+    height: 100%;
+  }
+}
+.option-title-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.option-title-icon {
+  width: 35px;
+  height: 35px;
+}
+.option-description {
+  font-size: 18px;
+  text-align: left;
+}
+.active {
+  background-color: #0e8684;
+  color: white;
+}

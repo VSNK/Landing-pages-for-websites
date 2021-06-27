@@ -1,0 +1,20 @@
+/* Write your code here. */
+.question-container {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+}
+.options-container {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 0px;
+  align-items: stretch;
+}
+@media screen and (min-width: 768px) {
+  .options-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
