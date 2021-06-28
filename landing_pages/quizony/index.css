@@ -353,6 +353,11 @@ body {
   border-bottom: 0.01px solid #66666644;
   flex-grow: 1;
 }
+@media screen and (max-width: 500px){
+  .categories-item {
+    font-size: 18px;
+  }
+}
 .categories-item-selected {
   background-color: #f3f3f3;
   font-weight: bold;
