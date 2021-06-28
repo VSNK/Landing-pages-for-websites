@@ -346,7 +346,7 @@ body {
   color: black;
   text-align: center;
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   font-family: "Roboto";
   border-right: 0.01px solid #66666644;
@@ -390,7 +390,7 @@ body {
   height: 100px;
 }
 .top-quiz-content {
-  padding: 12px;
+  padding: 14px;
 }
 .top-quiz-description {
   font-size: 12px;
@@ -433,26 +433,3 @@ body {
 }
 
 /* Footer Container */
-
-/* Utilities */
-.d-none {
-  display: none;
-}
-
-@keyframes slide-down {
-  from {
-    display: flex;
-  }
-  to {
-    display: none;
-  }
-}
-@keyframes slide-up {
-  from {
-    height: 240px;
-  }
-  to {
-    height: 0px;
-  }
-}
-/* Utilities */
