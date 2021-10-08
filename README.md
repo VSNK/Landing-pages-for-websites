@@ -34,6 +34,37 @@ https://vsnk.github.io/reactjs/coffee_planner_app/
 
 <br />
 
+# Landing Pages
+  
+## [Food Munch](https://vsnk.github.io/landing_pages/food_munch/)
+
+#### Link
+https://vsnk.github.io/landing_pages/food_munch/
+#### Details
+> Simple restaurant landing page.
+
+---
+
+## [Virtual Reality Store](https://vsnk.github.io/landing_pages/virtual_reality/)
+
+#### Link
+https://vsnk.github.io/landing_pages/virtual_reality/
+#### Details
+> Simple virtual reality store landing page.
+
+---
+
+## [Portfolio](https://vsnk.github.io/landing_pages/portfolio/)
+
+#### Link
+https://vsnk.github.io/landing_pages/portfolio/
+#### Details
+> Simple and appealing portfolio with dummy user data.
+
+---
+
+<br />
+
 # JavaScript Apps
 
 ## [Urban Dictionary](https://vsnk.github.io/javascript/dictionary/)
@@ -77,33 +108,4 @@ https://vsnk.github.io/javascript/chatbot/
 
 ---
 
-<br />
 
-# Landing Pages
-  
-## [Food Munch](https://vsnk.github.io/landing_pages/food_munch/)
-
-#### Link
-https://vsnk.github.io/landing_pages/food_munch/
-#### Details
-> Simple restaurant landing page.
-
----
-
-## [Virtual Reality Store](https://vsnk.github.io/landing_pages/virtual_reality/)
-
-#### Link
-https://vsnk.github.io/landing_pages/virtual_reality/
-#### Details
-> Simple virtual reality store landing page.
-
----
-
-## [Portfolio](https://vsnk.github.io/landing_pages/portfolio/)
-
-#### Link
-https://vsnk.github.io/landing_pages/portfolio/
-#### Details
-> Simple and appealing portfolio with dummy user data.
-
----
